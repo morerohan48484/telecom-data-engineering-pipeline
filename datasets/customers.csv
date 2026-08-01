@@ -1,1 +1,101 @@
-
+customer_id,customer_name,city,state,plan,join_date,status
+1001,Ekantika Thaker,Pune,Maharashtra,Prepaid,2025-10-05,Inactive
+1002,Lakshit Merchant,Hyderabad,Telangana,Prepaid,2025-09-03,Active
+1003,Vedhika Kota,Pune,Maharashtra,Prepaid,2025-03-17,Inactive
+1004,Dhruv Deep,Mumbai,Maharashtra,Prepaid,2025-05-17,Active
+1005,Adya Pandey,Hyderabad,Telangana,Prepaid,2026-05-04,Active
+1006,Deepa Bal,Hyderabad,Telangana,Postpaid,2024-11-16,Active
+1007,Ryan Iyengar,Nagpur,Maharashtra,Postpaid,2024-09-11,Active
+1008,Rachit Muni,Delhi,Delhi,Postpaid,2025-04-13,Inactive
+1009,Warda Chhabra,Bangalore,Karnataka,Prepaid,2026-04-27,Active
+1010,Udarsh Ahluwalia,Chennai,Tamil Nadu,Prepaid,2025-01-03,Active
+1011,Jason Rout,Ahmedabad,Gujarat,Prepaid,2024-12-14,Inactive
+1012,Ira Saran,Chennai,Tamil Nadu,Postpaid,2024-12-01,Active
+1013,Utkarsh Halder,Nagpur,Maharashtra,Prepaid,2025-07-20,Inactive
+1014,Pushti Virk,Pune,Maharashtra,Postpaid,2026-07-24,Inactive
+1015,Naksh Maharaj,Hyderabad,Telangana,Prepaid,2026-01-07,Active
+1016,Ishwar De,Hyderabad,Telangana,Postpaid,2025-10-27,Active
+1017,Diya Sethi,Hyderabad,Telangana,Prepaid,2025-09-30,Inactive
+1018,Ekansh Bhandari,Bangalore,Karnataka,Postpaid,2026-04-04,Inactive
+1019,Imaran Ben,Delhi,Delhi,Postpaid,2025-05-26,Inactive
+1020,Faris Morar,Hyderabad,Telangana,Postpaid,2026-07-15,Active
+1021,Indira Chhabra,Delhi,Delhi,Prepaid,2026-04-13,Active
+1022,Darsh Borde,Nagpur,Maharashtra,Postpaid,2025-05-13,Inactive
+1023,Rehaan Tella,Hyderabad,Telangana,Postpaid,2024-12-15,Active
+1024,Simon Raja,Hyderabad,Telangana,Prepaid,2025-01-02,Inactive
+1025,Kashish Sathe,Ahmedabad,Gujarat,Postpaid,2025-09-06,Active
+1026,Patrick Sampath,Hyderabad,Telangana,Postpaid,2025-03-12,Active
+1027,Chakradev Mannan,Nagpur,Maharashtra,Postpaid,2026-02-28,Inactive
+1028,Osha Wali,Delhi,Delhi,Postpaid,2024-11-17,Active
+1029,Bhavya Reddy,Hyderabad,Telangana,Postpaid,2026-07-22,Inactive
+1030,Henry Din,Ahmedabad,Gujarat,Postpaid,2025-08-27,Active
+1031,Leela Luthra,Delhi,Delhi,Postpaid,2025-07-10,Active
+1032,Rohan Patil,Mumbai,Maharashtra,Prepaid,2024-11-14,Active
+1033,Nandini Sunder,Delhi,Delhi,Postpaid,2026-07-18,Active
+1034,Yahvi Kata,Ahmedabad,Gujarat,Postpaid,2024-12-22,Inactive
+1035,Zinal Dhawan,Bangalore,Karnataka,Prepaid,2026-02-07,Active
+1036,Zayan Chowdhury,Bangalore,Karnataka,Postpaid,2026-03-06,Active
+1037,Harrison Parikh,Bangalore,Karnataka,Postpaid,2025-05-20,Active
+1038,Darpan Ravel,Nagpur,Maharashtra,Prepaid,2026-03-19,Inactive
+1039,Yahvi Swaminathan,Delhi,Delhi,Prepaid,2025-09-26,Inactive
+1040,Kashish Natt,Hyderabad,Telangana,Prepaid,2025-12-01,Inactive
+1041,Zansi Rama,Delhi,Delhi,Prepaid,2025-11-27,Inactive
+1042,Krish Master,Nagpur,Maharashtra,Prepaid,2025-04-23,Active
+1043,Riya Dhaliwal,Chennai,Tamil Nadu,Postpaid,2025-03-14,Active
+1044,Widisha Keer,Mumbai,Maharashtra,Prepaid,2025-01-11,Active
+1045,Leena Kulkarni,Pune,Maharashtra,Postpaid,2026-06-23,Active
+1046,Tanvi Gopal,Delhi,Delhi,Prepaid,2026-01-19,Inactive
+1047,Anya Yohannan,Delhi,Delhi,Postpaid,2026-03-25,Inactive
+1048,Neel Vaidya,Hyderabad,Telangana,Prepaid,2024-11-22,Inactive
+1049,Jhalak Bhavsar,Ahmedabad,Gujarat,Postpaid,2024-09-12,Inactive
+1050,Girindra Shah,Nagpur,Maharashtra,Prepaid,2026-01-09,Active
+1051,Harinakshi Buch,Hyderabad,Telangana,Prepaid,2025-03-01,Inactive
+1052,Siya Mitter,Mumbai,Maharashtra,Prepaid,2026-01-02,Active
+1053,Balendra Krishnamurthy,Mumbai,Maharashtra,Prepaid,2025-01-29,Active
+1054,Hemal Bora,Hyderabad,Telangana,Prepaid,2024-08-12,Active
+1055,Frado Chahal,Chennai,Tamil Nadu,Prepaid,2024-08-11,Active
+1056,Saumya Oommen,Bangalore,Karnataka,Postpaid,2025-12-20,Active
+1057,Gautam Chaudhary,Delhi,Delhi,Postpaid,2025-12-16,Active
+1058,Praneel Manda,Nagpur,Maharashtra,Postpaid,2025-11-25,Active
+1059,Dakshesh Sachdeva,Pune,Maharashtra,Prepaid,2026-03-29,Inactive
+1060,William Raghavan,Chennai,Tamil Nadu,Postpaid,2025-05-13,Inactive
+1061,Meera Bath,Nagpur,Maharashtra,Prepaid,2025-12-15,Active
+1062,Gayathri Tiwari,Mumbai,Maharashtra,Postpaid,2026-02-10,Inactive
+1063,Anika Warrior,Pune,Maharashtra,Prepaid,2026-06-02,Active
+1064,Amruta Chakrabarti,Hyderabad,Telangana,Postpaid,2025-10-31,Active
+1065,Naksh Kothari,Ahmedabad,Gujarat,Prepaid,2026-06-05,Inactive
+1066,Bina Wason,Nagpur,Maharashtra,Prepaid,2024-10-16,Active
+1067,Onveer Iyengar,Nagpur,Maharashtra,Prepaid,2025-06-26,Active
+1068,Noah Chokshi,Mumbai,Maharashtra,Prepaid,2026-03-12,Active
+1069,Girindra Vaidya,Delhi,Delhi,Postpaid,2025-03-11,Inactive
+1070,Aahana Pradhan,Nagpur,Maharashtra,Prepaid,2026-01-14,Inactive
+1071,Vihaan Master,Mumbai,Maharashtra,Prepaid,2025-12-23,Inactive
+1072,Dalaja Saini,Mumbai,Maharashtra,Postpaid,2024-10-17,Inactive
+1073,Qushi Chaudhary,Nagpur,Maharashtra,Postpaid,2026-05-11,Inactive
+1074,Turvi Ramachandran,Nagpur,Maharashtra,Prepaid,2025-10-01,Active
+1075,Nandini Thakkar,Bangalore,Karnataka,Prepaid,2026-06-07,Active
+1076,Qarin Apte,Mumbai,Maharashtra,Postpaid,2025-09-07,Active
+1077,Yuvraj Apte,Mumbai,Maharashtra,Postpaid,2025-10-24,Active
+1078,Ekta Shah,Mumbai,Maharashtra,Prepaid,2025-08-06,Active
+1079,Dalbir Chad,Pune,Maharashtra,Prepaid,2025-11-12,Active
+1080,Arya Tiwari,Ahmedabad,Gujarat,Prepaid,2024-10-03,Active
+1081,Orinder Mandal,Mumbai,Maharashtra,Prepaid,2025-07-13,Inactive
+1082,Rajata Hans,Chennai,Tamil Nadu,Postpaid,2025-01-16,Active
+1083,Ethan Mahal,Chennai,Tamil Nadu,Prepaid,2024-12-21,Inactive
+1084,Anya Suri,Ahmedabad,Gujarat,Prepaid,2025-07-12,Inactive
+1085,Kashish Boase,Nagpur,Maharashtra,Postpaid,2025-08-26,Active
+1086,Onveer Tripathi,Mumbai,Maharashtra,Postpaid,2026-01-14,Active
+1087,Manan Lal,Pune,Maharashtra,Prepaid,2025-01-25,Inactive
+1088,Isaac Devan,Delhi,Delhi,Postpaid,2026-04-28,Active
+1089,Ikbal Hora,Hyderabad,Telangana,Postpaid,2025-08-03,Inactive
+1090,Omaja Khare,Delhi,Delhi,Postpaid,2025-03-21,Inactive
+1091,Anmol Gokhale,Mumbai,Maharashtra,Postpaid,2025-12-22,Active
+1092,Ikbal Taneja,Delhi,Delhi,Postpaid,2024-09-24,Active
+1093,Ishwar Acharya,Pune,Maharashtra,Prepaid,2025-01-06,Inactive
+1094,Akshay Zachariah,Bangalore,Karnataka,Prepaid,2025-08-14,Inactive
+1095,Lavanya Pradhan,Hyderabad,Telangana,Postpaid,2025-03-09,Inactive
+1096,Bimala Maharaj,Bangalore,Karnataka,Prepaid,2025-01-21,Active
+1097,Leena Pant,Ahmedabad,Gujarat,Postpaid,2026-04-09,Active
+1098,Abeer Morar,Mumbai,Maharashtra,Postpaid,2024-09-12,Active
+1099,Hredhaan Nadkarni,Bangalore,Karnataka,Prepaid,2026-05-26,Inactive
+1100,Nidra Raja,Ahmedabad,Gujarat,Prepaid,2026-07-17,Active
