@@ -1,1 +1,201 @@
-
+complaint_id,customer_id,complaint_date,issue_type,status,resolution_days
+C0001,1082,2026-05-13,Network Issue,Resolved,8
+C0002,1032,2026-03-15,Call Drop,Resolved,3
+C0003,1087,2026-02-03,SIM Activation,Open,2
+C0004,1076,2026-05-15,Billing Issue,Resolved,0
+C0005,1012,2025-12-30,Call Drop,Resolved,0
+C0006,1072,2025-10-29,Call Drop,Open,13
+C0007,1029,2025-08-03,Billing Issue,Open,8
+C0008,1001,2026-03-15,SMS Not Working,Resolved,13
+C0009,1044,2026-04-08,Slow Internet,Resolved,6
+C0010,1098,2025-09-07,Slow Internet,Resolved,2
+C0011,1049,2026-01-29,Network Issue,Pending,11
+C0012,1078,2025-12-02,Slow Internet,Resolved,14
+C0013,1069,2026-02-27,Network Issue,Pending,2
+C0014,1071,2026-07-22,Slow Internet,Open,11
+C0015,1074,2026-04-04,Call Drop,Open,2
+C0016,1006,2026-05-31,SIM Activation,Resolved,9
+C0017,1011,2026-01-27,SMS Not Working,Resolved,3
+C0018,1049,2026-01-26,Slow Internet,Pending,11
+C0019,1021,2026-01-08,Slow Internet,Pending,6
+C0020,1086,2026-05-31,Slow Internet,Open,2
+C0021,1078,2026-03-28,SIM Activation,Resolved,7
+C0022,1021,2026-06-13,Billing Issue,Pending,8
+C0023,1082,2025-08-23,SIM Activation,Open,7
+C0024,1088,2025-09-11,Slow Internet,Resolved,7
+C0025,1005,2025-08-18,SMS Not Working,Pending,12
+C0026,1035,2025-09-23,Network Issue,Resolved,10
+C0027,1028,2026-05-08,SIM Activation,Pending,12
+C0028,1083,2026-07-02,Billing Issue,Resolved,8
+C0029,1018,2025-11-22,Call Drop,Open,8
+C0030,1096,2026-01-26,Recharge Failed,Pending,12
+C0031,1047,2025-12-05,Call Drop,Resolved,15
+C0032,1012,2026-07-29,SMS Not Working,Resolved,3
+C0033,1020,2026-01-22,SIM Activation,Resolved,13
+C0034,1077,2025-08-25,Network Issue,Pending,12
+C0035,1077,2026-03-29,Billing Issue,Open,8
+C0036,1071,2026-02-23,SMS Not Working,Resolved,3
+C0037,1088,2025-08-01,Recharge Failed,Pending,10
+C0038,1015,2025-08-23,Slow Internet,Pending,5
+C0039,1059,2025-12-28,Network Issue,Open,8
+C0040,1065,2026-04-24,SMS Not Working,Resolved,3
+C0041,1081,2025-09-25,Slow Internet,Open,6
+C0042,1020,2025-09-10,Slow Internet,Resolved,0
+C0043,1077,2025-12-21,Slow Internet,Pending,0
+C0044,1015,2025-11-24,Slow Internet,Pending,7
+C0045,1008,2025-12-16,Call Drop,Open,2
+C0046,1011,2026-01-29,SIM Activation,Pending,2
+C0047,1098,2026-07-03,Recharge Failed,Resolved,4
+C0048,1085,2026-05-19,Billing Issue,Open,5
+C0049,1034,2026-04-01,Recharge Failed,Open,13
+C0050,1028,2026-07-21,Recharge Failed,Open,6
+C0051,1092,2025-08-07,Slow Internet,Pending,11
+C0052,1057,2025-09-06,Recharge Failed,Pending,3
+C0053,1032,2026-07-13,Call Drop,Resolved,10
+C0054,1003,2025-09-30,Recharge Failed,Open,7
+C0055,1076,2025-08-26,Call Drop,Resolved,2
+C0056,1091,2025-09-09,SIM Activation,Resolved,7
+C0057,1009,2025-12-29,Network Issue,Pending,2
+C0058,1066,2026-06-16,Call Drop,Pending,15
+C0059,1028,2026-07-03,Recharge Failed,Resolved,15
+C0060,1032,2025-09-28,SMS Not Working,Pending,13
+C0061,1025,2026-06-08,Network Issue,Resolved,13
+C0062,1046,2026-07-22,Billing Issue,Pending,14
+C0063,1094,2026-01-28,Network Issue,Open,3
+C0064,1008,2026-02-17,Billing Issue,Open,10
+C0065,1014,2025-12-08,Call Drop,Resolved,6
+C0066,1069,2026-03-14,Billing Issue,Resolved,13
+C0067,1024,2025-10-13,Slow Internet,Pending,7
+C0068,1010,2025-11-22,Billing Issue,Open,3
+C0069,1007,2026-03-22,SIM Activation,Open,0
+C0070,1012,2026-06-13,SMS Not Working,Resolved,5
+C0071,1053,2026-04-14,Billing Issue,Pending,6
+C0072,1052,2026-04-13,Network Issue,Resolved,12
+C0073,1001,2026-06-23,Billing Issue,Pending,14
+C0074,1037,2026-07-25,Billing Issue,Open,15
+C0075,1020,2026-06-03,Call Drop,Pending,6
+C0076,1008,2026-04-07,Recharge Failed,Open,1
+C0077,1096,2026-07-10,Slow Internet,Resolved,1
+C0078,1075,2025-08-17,Billing Issue,Open,5
+C0079,1008,2026-05-02,Recharge Failed,Resolved,5
+C0080,1009,2025-08-18,Recharge Failed,Resolved,7
+C0081,1052,2026-03-30,Network Issue,Open,7
+C0082,1075,2026-06-05,Recharge Failed,Resolved,2
+C0083,1054,2026-04-17,SIM Activation,Open,10
+C0084,1034,2025-12-15,Call Drop,Open,10
+C0085,1031,2025-10-29,Slow Internet,Pending,4
+C0086,1086,2026-02-21,SIM Activation,Pending,14
+C0087,1041,2026-05-18,SMS Not Working,Resolved,0
+C0088,1059,2026-06-15,Recharge Failed,Open,3
+C0089,1010,2026-07-01,Recharge Failed,Resolved,8
+C0090,1017,2025-08-10,Slow Internet,Resolved,7
+C0091,1048,2026-02-17,Slow Internet,Resolved,14
+C0092,1070,2026-01-18,SIM Activation,Pending,0
+C0093,1086,2025-10-21,SMS Not Working,Open,9
+C0094,1085,2026-06-25,Network Issue,Resolved,8
+C0095,1015,2026-02-13,Network Issue,Open,4
+C0096,1035,2026-05-16,Slow Internet,Open,6
+C0097,1092,2026-04-28,Slow Internet,Resolved,8
+C0098,1065,2026-04-29,Billing Issue,Pending,1
+C0099,1012,2026-06-03,SIM Activation,Pending,8
+C0100,1006,2026-07-29,Network Issue,Pending,4
+C0101,1082,2025-12-01,Slow Internet,Resolved,14
+C0102,1071,2025-12-27,SIM Activation,Pending,0
+C0103,1015,2025-11-10,Network Issue,Open,4
+C0104,1070,2025-09-20,Network Issue,Pending,4
+C0105,1056,2026-06-10,Call Drop,Resolved,9
+C0106,1047,2025-08-22,SMS Not Working,Resolved,11
+C0107,1027,2025-10-30,SIM Activation,Resolved,3
+C0108,1046,2026-07-31,SMS Not Working,Open,13
+C0109,1080,2026-05-16,SIM Activation,Resolved,7
+C0110,1021,2025-08-08,SMS Not Working,Resolved,13
+C0111,1004,2025-08-10,Call Drop,Open,10
+C0112,1053,2026-02-26,SMS Not Working,Open,7
+C0113,1035,2026-03-01,Call Drop,Open,3
+C0114,1049,2025-12-28,SMS Not Working,Resolved,15
+C0115,1029,2025-10-26,Call Drop,Pending,11
+C0116,1040,2025-08-13,SMS Not Working,Resolved,7
+C0117,1004,2026-02-26,SIM Activation,Resolved,12
+C0118,1043,2025-08-15,Slow Internet,Resolved,8
+C0119,1045,2026-04-16,SIM Activation,Open,12
+C0120,1087,2026-06-17,SMS Not Working,Open,10
+C0121,1004,2026-04-14,Network Issue,Pending,5
+C0122,1075,2025-08-04,Slow Internet,Resolved,3
+C0123,1077,2026-01-22,Billing Issue,Pending,10
+C0124,1056,2026-02-08,Recharge Failed,Open,3
+C0125,1050,2026-06-03,Recharge Failed,Resolved,8
+C0126,1006,2026-01-26,SIM Activation,Pending,0
+C0127,1067,2026-06-19,SMS Not Working,Open,6
+C0128,1047,2026-01-26,Billing Issue,Resolved,10
+C0129,1080,2026-05-18,Slow Internet,Open,3
+C0130,1093,2025-09-07,Slow Internet,Open,9
+C0131,1086,2026-03-20,Billing Issue,Pending,12
+C0132,1090,2025-10-09,Slow Internet,Open,4
+C0133,1025,2026-06-25,Billing Issue,Open,12
+C0134,1087,2026-03-09,SIM Activation,Resolved,9
+C0135,1052,2025-11-26,Recharge Failed,Resolved,9
+C0136,1037,2025-09-13,Call Drop,Pending,10
+C0137,1060,2026-05-06,Billing Issue,Pending,6
+C0138,1066,2025-08-13,Billing Issue,Open,5
+C0139,1085,2025-12-25,Network Issue,Pending,10
+C0140,1012,2026-07-17,SMS Not Working,Resolved,9
+C0141,1029,2025-12-14,SMS Not Working,Resolved,4
+C0142,1004,2025-08-25,Network Issue,Resolved,15
+C0143,1079,2025-08-29,SMS Not Working,Resolved,14
+C0144,1054,2025-08-19,SIM Activation,Open,6
+C0145,1092,2026-02-13,SIM Activation,Pending,15
+C0146,1052,2026-05-08,Call Drop,Resolved,0
+C0147,1097,2025-08-20,SMS Not Working,Resolved,13
+C0148,1029,2026-01-20,Call Drop,Open,14
+C0149,1007,2025-09-24,Recharge Failed,Resolved,3
+C0150,1059,2025-10-25,Call Drop,Pending,10
+C0151,1097,2025-10-19,Billing Issue,Open,13
+C0152,1071,2026-03-26,Billing Issue,Resolved,15
+C0153,1058,2025-09-08,Slow Internet,Resolved,8
+C0154,1099,2026-01-14,SMS Not Working,Open,15
+C0155,1081,2026-01-03,Call Drop,Pending,14
+C0156,1010,2026-04-11,SIM Activation,Pending,7
+C0157,1035,2025-08-23,Slow Internet,Pending,2
+C0158,1018,2026-02-10,Call Drop,Resolved,12
+C0159,1089,2026-04-06,Call Drop,Open,6
+C0160,1009,2026-06-04,Billing Issue,Pending,10
+C0161,1070,2026-04-28,Billing Issue,Pending,1
+C0162,1027,2025-12-12,SMS Not Working,Pending,12
+C0163,1099,2026-07-02,Recharge Failed,Open,0
+C0164,1098,2025-11-27,Recharge Failed,Pending,15
+C0165,1001,2026-01-02,Slow Internet,Pending,12
+C0166,1054,2026-05-16,Recharge Failed,Open,7
+C0167,1063,2026-07-22,Call Drop,Pending,13
+C0168,1063,2026-04-30,Network Issue,Pending,10
+C0169,1086,2026-04-26,SIM Activation,Pending,5
+C0170,1060,2025-11-14,Call Drop,Open,0
+C0171,1051,2025-08-01,Recharge Failed,Open,0
+C0172,1011,2026-06-10,SIM Activation,Pending,4
+C0173,1060,2026-05-15,Call Drop,Resolved,8
+C0174,1049,2026-03-13,Slow Internet,Resolved,14
+C0175,1042,2026-05-28,Slow Internet,Pending,8
+C0176,1097,2026-02-10,SMS Not Working,Pending,8
+C0177,1011,2025-11-14,Billing Issue,Resolved,1
+C0178,1045,2025-09-19,Call Drop,Open,2
+C0179,1100,2026-07-27,SIM Activation,Resolved,0
+C0180,1032,2026-06-23,Call Drop,Resolved,4
+C0181,1031,2025-09-03,Call Drop,Pending,3
+C0182,1073,2026-07-26,Call Drop,Pending,8
+C0183,1099,2025-09-19,Slow Internet,Resolved,3
+C0184,1100,2025-09-13,SMS Not Working,Resolved,9
+C0185,1014,2025-11-08,Recharge Failed,Resolved,9
+C0186,1074,2026-01-24,SIM Activation,Pending,12
+C0187,1092,2026-03-10,Call Drop,Resolved,7
+C0188,1014,2025-08-11,SIM Activation,Pending,3
+C0189,1073,2026-06-10,SMS Not Working,Resolved,11
+C0190,1069,2026-02-08,Billing Issue,Open,11
+C0191,1009,2026-01-13,Recharge Failed,Open,10
+C0192,1002,2026-03-15,SMS Not Working,Pending,15
+C0193,1014,2026-05-17,Billing Issue,Pending,14
+C0194,1091,2026-01-15,Call Drop,Pending,5
+C0195,1094,2025-11-10,Recharge Failed,Open,8
+C0196,1079,2026-07-06,SMS Not Working,Open,15
+C0197,1060,2025-08-12,Billing Issue,Open,8
+C0198,1042,2025-08-14,SMS Not Working,Resolved,2
+C0199,1036,2026-01-29,Billing Issue,Resolved,14
+C0200,1073,2025-12-30,Recharge Failed,Open,12
